@@ -7,3 +7,10 @@
 Membership function 
 -------------------
 <img src = "https://miro.medium.com/max/932/1*6AyZsfDjApEFJ9UoDQrAAw.png"/>
+Base algo:
+---------
+
+TODO
+----
+* Read algorithm.pdf
+* Analyze the core.pdf
