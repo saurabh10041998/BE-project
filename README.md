@@ -14,3 +14,12 @@ TODO
 ----
 * Read algorithm.pdf
 * Analyze the core.pdf
+
+Pytorch
+-------
+* To compute the derivatie: .backward()
+* 2D convolutional for black and white whereas 3D convolutional for colored images
+
+CNN
+---
+Articles for the begineers <a href = "https://towardsdatascience.com/a-beginners-guide-to-convolutional-neural-networks-cnns-14649dbddce8"> Here </a>
